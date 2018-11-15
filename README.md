@@ -1,5 +1,5 @@
-# DataStucturesAndAlgorithms
-Data Structures and Algorithms for competitive coding. From Dummy to Expert.
+# AwesomeDataStucturesAndAlgorithms
+Data Structures and Algorithms for competitive coding.Learning everything from being a Dummy to Expert.
 
 We made this repo to learn DSA ourselves and making it a team project, we think this learning experience would turn out to be really fun.
 
