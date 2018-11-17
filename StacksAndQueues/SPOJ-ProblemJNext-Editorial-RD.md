@@ -3,13 +3,13 @@ The first approach to solving any question should be to manually solve it on our
 **Basic Approach :**
 Here, Take a pen and paper and see the following inputs and outputs :
 
-- 1 5 4 8 3
+- 1 5 4 8 3<br /> 
 15834
 
-- 1 4 7 4 5 8 4 1 2 6
+- 1 4 7 4 5 8 4 1 2 6<br /> 
 1474584162
  
-- 1 7 9 8 7 6 2
+- 1 7 9 8 7 6 2<br /> 
 126789
 
 Try to make up more examples on your own and look out for patterns 
