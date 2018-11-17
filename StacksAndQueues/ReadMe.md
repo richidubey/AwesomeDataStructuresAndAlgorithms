@@ -8,6 +8,6 @@ We'll post link for the original author's editorial or we will post our own edit
 Current Questions: 
  1. JNEXT :
  - Question Link : https://www.spoj.com/problems/JNEXT/
- - Editorial : Both Richi's and Pradyuman's algorithm is up here! If you stil stumble in questiongoogle JNEXT SPOJ Solution! 
+ - Editorial : Both Richi's and Pradyuman's algorithm is up here! If you stil stumble, well make sure you don't. That's the point. 
 
 Cheers!! 
