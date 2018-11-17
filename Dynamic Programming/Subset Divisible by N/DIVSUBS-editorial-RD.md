@@ -1,6 +1,6 @@
 This question uses **Pigeon Hole principle**
 
-Since N goes up to 10^5, we can't have an O(n^2) algorithm.
+Since N goes up to 10^5, we can't have an O(n^2) algorithm. (And if you're on your way to learn DSA, O(n^2) should almost never be your valid option.
 
 
 We'll make a sum array which will store the sum uptil i-th index and we'll modulo it by n each time we calculate it.
