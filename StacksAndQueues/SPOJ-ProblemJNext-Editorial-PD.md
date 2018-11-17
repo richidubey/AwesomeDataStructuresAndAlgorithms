@@ -20,6 +20,14 @@ So to put the algorithm I have used in the problem in words:
 
 **Why this algorithm works in O(n.log n)**
 
+
+We don't process the whole array, everytime we need to find the next permutation of the number. We just first find the first digit that we need to find, and then process only the part relatively right (greater) to it. 
+
+This means we always tend to work on the smallest possible patch and exponentially decrease the work part of the array. Also we are using quickSort algorithm which tend to give us advantage over sorting those digits.
+
+
+>This implementation can still be a bit more optimized and can be brought upto O(n), by using Binary Search in the step where we are searching for the digit, that complies with our needs.
+
 We don't process the whole array, everytime we need to find the next permutation of the number. We just first find the first digit that we need to find, and then process only the part relatively right (greater) to it. This means we always tend to work on the smallest possible patch and exponentially decrease the work part of the array. Also we are using quickSort algorithm which tend to give us advantage over sorting those digits.
 
 
