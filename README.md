@@ -16,9 +16,12 @@ Also this Repo will be having all the codes for important data structures and al
 - [Dynamic Programming](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Dynamic%20Programming)
 
    Things you must know before diving into DP problem solving.
+   
+   
+   
 
 
-- Current Contributors:
+**Current Contributors:**
    > Pradyuman Dixit (Pradyuman7)
 
    > Richi Dubey (richidubey)
