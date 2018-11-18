@@ -42,7 +42,7 @@ Insertion sort is a simple sorting algorithm that works the way we sort playing 
 
 **Selection Sort**
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
->Time Complexity: O(n2) as there are two nested loops.
+>Time Complexity: O(n^2) as there are two nested loops.
 
 >Auxiliary Space: O(1)
 
@@ -50,7 +50,7 @@ The good thing about selection sort is it never makes more than O(n) swaps and c
 
 **Shell Sort**
 ShellSort is mainly a variation of Insertion Sort. In insertion sort, we move elements only one position ahead. When an element has to be moved far ahead, many movements are involved. The idea of shellSort is to allow exchange of far items. In shellSort, we make the array h-sorted for a large value of h. We keep reducing the value of h until it becomes 1. An array is said to be h-sorted if all sublists of every h’th element is sorted.
->Time Complexity: Time complexity of above implementation of shellsort is O(n2). In the above implementation gap is reduce by half in every iteration.
+>Time Complexity: Time complexity of above implementation of shellsort is O(n^2). In the above implementation gap is reduce by half in every iteration.
 
 
 **Merge Sort**
@@ -73,6 +73,8 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 >Best Case Time Complexity: Θ(nlog n)
 
 >Average Case Time Complexity: O(nlog n)
+
+
 
 
 

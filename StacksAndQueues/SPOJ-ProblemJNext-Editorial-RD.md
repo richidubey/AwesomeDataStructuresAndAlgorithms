@@ -27,7 +27,7 @@ Otherwise keep looking for the instance when our number is smaller than the curr
 If you can't find such a number which is smaller than previos one, then that means that our array is in descending order and we can't get a bigger number than the current one, so the answer then would be -1.
 
 
- >Rather than trying to understand this editoria, solve for some sample inputs and think about algorithm in your mind, it's pretty easy!!
+ >Rather than trying to understand this editorial, solve for some sample inputs and think about algorithm in your mind, it's pretty easy!!
  
  **Difficulty : 2/5**
  

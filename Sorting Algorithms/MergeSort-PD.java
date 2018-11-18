@@ -1,4 +1,6 @@
 
+//For those of you who don't know much about java, Don't worry and head to Line number 55- 146. That is the important part and its syntax is similar to c/c++
+
 public class MergeSort {
 	
 	
