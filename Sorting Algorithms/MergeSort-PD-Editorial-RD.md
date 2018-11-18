@@ -93,13 +93,16 @@ Intially three integers **i,j,k** are declared which represents the current trav
 asks the while loop to run only till either one of the array is completely traversed.<br />
 
  >(leftA[i]<=rightA[j]) <br/>
+ 
 compares current index of left  array with current index of right array and whichever is smaller is added to main array, increasing the index of the array from which the element is added.<br />
 
 At the end:
  >while(i<nL) or while(j<nR)<br/>
+ 
 checks if either one of the left or right array is not completely added to merged array(All the elements remaining are bigger than every other element of other array) and then goes on to adding all the elements of it into the main array
 
 **Fun facts**<br/>
+
 Only one of the two while loops will run as the if elements are left to be filled, that means other array has already filled all its elements.<br />
 While Filling  the entire array in the end, we dont care about sorting it because it has already been sorted earlier by the merge sort by which it was made(mindfuck!).
 
