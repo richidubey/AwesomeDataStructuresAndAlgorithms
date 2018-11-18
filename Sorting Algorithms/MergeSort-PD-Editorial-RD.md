@@ -90,6 +90,7 @@ Now on to the most important merge function
 Intially three integers **i,j,k** are declared which represents the current traversing index for left, right and merged array respetively.<br />
 
  >While (i<nl and j<nr)<br/>
+ 
 asks the while loop to run only till either one of the array is completely traversed.<br />
 
  >(leftA[i]<=rightA[j]) <br/>
