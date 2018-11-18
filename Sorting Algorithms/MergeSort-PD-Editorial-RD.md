@@ -1,4 +1,4 @@
-#Explaining MergeSort-PD.java<br/><br/>
+Explaining MergeSort-PD.java<br/><br/>
 ======
 Merge Sort basically keeps dividing the given array into smaller left and right subparts and then while joining compares each element one by one of corresponding parts.
 
