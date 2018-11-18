@@ -1,6 +1,6 @@
 Sieve of Eratosthenes is known as one of the most efficient ways to calculate prime upto a given number and is used quite extensively in competitive programming.
 
-It starts off by visiting numbers from 2 to n(since 1 isn't prime) and maintains a bool array corresponding to every element as false initially.
+It starts off by visiting numbers from 2 to n(since 1 isn't prime) and maintains a bool(boolean- true or false) array corresponding to every element as false initially.
 
 If it encounters a numbers whose value is still false, it then saves it as prime and marks its value and all its corresponding multiples value as true.
 
@@ -24,8 +24,8 @@ If it encounters a numbers whose value is still false, it then saves it as prime
 	 }
 
 
-From iterate 3 till our maximum number, and it is optimized as we are skipping 4,6,8 and all even numbers as they are not primes and all divisible by 2.
-Then  if that number is not already visited, it means it is prime and then we mark all its multiple as prime, here it is also optimized by knowing that all the smaller multiples of i(the current prime) also have a prime factor which is less than i(our current number, so it has already been marked). Increasing by i each times gets us its multiples.
+We iterate from 3 till our maximum number, and it is optimized as we are skipping 4,6,8 and all even numbers as they are not primes as all are divisible by 2.
+Then  if that number is not already visited, it means it is prime and then we mark all its multiple as prime, here also it is optimized by implementing that all the smaller multiples of i(the current prime) also have a prime factor which is less than i(our current number, so it has already been marked). Increasing by i each times gets us its multiples.
 
 That's All!! 
 Thanks for reading!
