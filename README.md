@@ -17,7 +17,13 @@ Also this Repo will be having all the codes for important data structures and al
 
    Things you must know before diving into DP problem solving.
    
+- [Sorting Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Sorting%20Algorithms)
+
+   Famous and must know concepts and algorithms for sorting.
    
+- [Prime Number Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Primes)   
+   
+   Sieve Algorithm for Prime Numbers
    
 
 
