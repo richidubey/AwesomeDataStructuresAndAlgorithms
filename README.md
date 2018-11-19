@@ -1,5 +1,5 @@
 
-# Data-Stuctures And Algorithms
+# Data-Structures And Algorithms
 Data Structures and Algorithms for competitive coding. From Dummy to Expert.
 
 
