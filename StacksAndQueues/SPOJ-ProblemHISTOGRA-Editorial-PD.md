@@ -14,4 +14,4 @@ So, this was the logic, now for the algorithm, which, if you have the logic, wou
 
 This problem is solely based on what you think for maximizing the area. 
 
-Problem Level: Easy
+**Problem Level: Easy**
