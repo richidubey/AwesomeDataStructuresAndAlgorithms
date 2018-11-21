@@ -15,7 +15,7 @@ void sieve(int MAXN) {
 		if(!vis[i]) 
 		{
 			v.push_back(i);
-			for(int j=i*i;j<MAXN;j+=2*i) 
+			for(int j=i*i;j<MAXN;j+=i) 
 				  vis[j]=true;
 		}
 	}	
