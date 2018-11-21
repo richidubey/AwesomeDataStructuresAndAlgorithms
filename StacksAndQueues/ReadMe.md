@@ -12,6 +12,6 @@ Current Questions:
  - Editorial : Both Richi's and Pradyuman's algorithm is up here! 
  2. STPAR :
  - Question Link : https://www.spoj.com/problems/STPAR/
- - Editorial : Currently, Pradyuman's algorithm is up here!
+ - Editorial : Currently, Both Richi's and Pradyuman's algorithm is up here!
 
 Cheers!! 
