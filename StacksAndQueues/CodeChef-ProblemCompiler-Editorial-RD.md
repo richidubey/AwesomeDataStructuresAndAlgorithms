@@ -1,4 +1,4 @@
-##Compiler Editorial - by Richi
+## Compiler Editorial - by Richi
 
 There's also another question which asks if a given formula is closed or not, which can be solved using a similar approach.
 
