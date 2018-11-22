@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int i,t,curr,here,maxcurr;
+	int i,t,curr,maxcurr;
 	
 	cin>>t;
 	
@@ -15,7 +15,6 @@ int main()
 	{
 		maxcurr=0;
 		curr=0;
-		here=0;
 		
 		
 		string in;
