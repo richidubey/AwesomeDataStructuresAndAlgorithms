@@ -17,9 +17,7 @@ Current Questions:
  - Question Link: https://www.codechef.com/problems/COMPILER
  - Editorial: Both Richi's and Prodyuman's Algortihm is in this folder.
 
-
-
-
+<br/><br/>
 If you have any doubts, feel free to mail the contributors. Mailing Addresses are at the homepage of repository.
 
 Cheers!! 
