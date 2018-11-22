@@ -4,17 +4,17 @@ There's also another question which asks if a given formula is closed or not, wh
 
 As always first try out some sample inputs and outputs and think about the algorithm
 
-**Sample Input and Outputs**
-- >< <br />
-  0<br /><br />
+**Sample Input and Outputs**<br/>
+* <> <br />
+  2<br /><br />
  
-- <<<><br />
+* <<<><br />
   0<br /><br />
   
-- <><><<br />
+* <><><<br />
   4 <br /><br />
   
-- <<>>><<<<>>>><br />
+* <<>>><<<<>>>><br />
   4 <br /><br />
   
   Also try out the inputs in the question description.
