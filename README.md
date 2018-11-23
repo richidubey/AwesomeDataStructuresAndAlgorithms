@@ -29,8 +29,7 @@ Also this Repo will be having all the codes for important data structures and al
 
 **Current Contributors:**
    > Pradyuman Dixit (Pradyuman7)
-   
-   <br/><br/>
+   - P.Dixit@Student.tudelft.nl
 
    > Richi Dubey (richidubey)
    - f20170099@goa.bits-pilani.ac.in
