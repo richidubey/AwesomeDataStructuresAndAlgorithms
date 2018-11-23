@@ -13,5 +13,11 @@ Current Questions:
  2. STPAR :
  - Question Link : https://www.spoj.com/problems/STPAR/
  - Editorial : Currently, Both Richi's and Pradyuman's algorithm is up here!
+ 3. COMPILER
+ - Question Link: https://www.codechef.com/problems/COMPILER
+ - Editorial: Both Richi's and Prodyuman's Algortihm is in this folder.
+
+<br/><br/>
+If you have any doubts, feel free to mail the contributors. Mailing Addresses are at the homepage of repository.
 
 Cheers!! 

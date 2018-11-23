@@ -25,11 +25,14 @@ Also this Repo will be having all the codes for important data structures and al
    
    Sieve Algorithm for Prime Numbers
    
-
+***
 
 **Current Contributors:**
    > Pradyuman Dixit (Pradyuman7)
+   
+   <br/><br/>
 
    > Richi Dubey (richidubey)
+   - f20170099@goa.bits-pilani.ac.in
 
 

@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Compiler {
+class Compiler {
 
 	public static void main(String[] args) {
 
-    Scanner scanner = new Scanner(System.in); // Yes, I use Scanner. Why? Because I fucking don't care about 0.000001 second delay when I am learning DSA to improve performance 
+    Scanner scanner = new Scanner(System.in); //Yes, I use Scanner. Why? Because delay due to scanner isn't much
 		
-		System.out.println("Enter the test cases number");
+		//System.out.println("Enter the test cases number");
 		int t = scanner.nextInt();
 		
 		scanner.nextLine();

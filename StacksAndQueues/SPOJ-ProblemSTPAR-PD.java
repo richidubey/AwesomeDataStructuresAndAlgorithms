@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Dog {
+class Dog {
 
 	public static String getSTPAR(int[] a) {
 		
@@ -34,7 +34,7 @@ public class Dog {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Enter the size");
+//		System.out.println("Enter the size");
 		
 		int n = scanner.nextInt();
 		
