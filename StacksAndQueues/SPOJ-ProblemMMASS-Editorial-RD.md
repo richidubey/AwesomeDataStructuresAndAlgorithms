@@ -1,4 +1,4 @@
-###SPOJ-MMAS Editorial by Richi
+## SPOJ-MMAS Editorial by Richi
 
 This problem is listed under ad-hoc problems which means that you don't necessarily need to use stack in this que. My code didn't use stack.
 
