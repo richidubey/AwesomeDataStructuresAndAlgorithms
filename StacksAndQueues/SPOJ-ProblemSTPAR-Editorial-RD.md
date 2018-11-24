@@ -24,7 +24,7 @@ Basic Ideas is to put any car which is not the current minimum of all cars in si
 
 So we'll maintain two vectors, one will contain the original input and the other will contain the elements of the side-street. Also, we'll maintain an array which will have all elements(car-numbers) in sorted manner(in ascending order) and in the first loop, we'll aim at either moving cars from main track onto final track or the side track, while always checking first if the cars on side-track can come out now.The associated coding part for it is :
 	
-~~~~
+~~~cpp
 for(i=0;i<v1.size();i++)
 	{
 		if(v2.size()!=0)
@@ -49,14 +49,14 @@ for(i=0;i<v1.size();i++)
 		}
 	}
 	
-~~~~
+~~~
 
 Here v1.size() tells the size of the first vector, that is the vector containing cars in original order.
 
 After this, if all the cars are taken out(ia-the index corresponding to cars in increasing order reaches is max point=n)then we print "yes".If not then, otherwise we try to empty out side track in ascending order manner for as long as we can,if we can't we print "no".
 Code for it is:
 	
-~~~~
+~~~cpp
 if(ia==n)
 	{
 		cout<<"yes"<<endl;
@@ -79,7 +79,7 @@ if(ia==n)
 		cout<<"yes"<<endl;
 	}
 	
-~~~~
+~~~
 
 
 Here in line 68, we check if last element in the side track(the car that can go out) corrseponds to the next car that is supposed to go out, if it is we remove it. We repeat this until side track(v2) gets empty or the order doesn't match, whichever comes earlier.
