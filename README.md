@@ -27,6 +27,14 @@ Also this Repo will be having all the codes for important data structures and al
    
 ***
 
+We are also rating the problems based on their difficulty for us:
+
+> PD's rating system: **Very Easy, Easy, Average, Hard, Very Hard**
+
+> RD's rating system: **1, 2, 3, 4, 5**
+
+***
+
 **Current Contributors:**
    > Pradyuman Dixit (Pradyuman7)
    - P.Dixit@Student.tudelft.nl
