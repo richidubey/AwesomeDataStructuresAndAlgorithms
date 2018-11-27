@@ -10,7 +10,7 @@
 
 3. Salary
 - [Question Link](https://www.codechef.com/problems/SALARY)
-- The solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 4. CHN15A
 - [Question Link](https://www.codechef.com/problems/CHN15A)
