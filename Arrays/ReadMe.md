@@ -6,7 +6,7 @@
 
 2. CNote
 - [Question Link](https://www.codechef.com/problems/CNOTE)
-- The solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 3. Salary
 - [Question Link](https://www.codechef.com/problems/SALARY)
