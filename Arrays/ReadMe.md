@@ -14,11 +14,11 @@
 
 4. CHN15A
 - [Question Link](https://www.codechef.com/problems/CHN15A)
-- The solutions are on their way!
+- Currently, the question is un-available to view :( 
 
 5. RaninbowA
 - [Question Link](https://www.codechef.com/problems/RAINBOWA)
-- The solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 6. FRGTLNG
 - [Question Link](https://www.codechef.com/problems/FRGTNLNG)
