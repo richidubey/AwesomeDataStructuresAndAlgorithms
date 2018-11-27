@@ -25,6 +25,14 @@ Also this Repo will be having all the codes for important data structures and al
    
    Sieve Algorithm for Prime Numbers
    
+- [Arrays](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Arrays)  
+
+   Coding and interview problems on arrays with solutions and editorial.
+   
+- [Euclidean HCF Algorithm](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Euclid-s%20GCD%20and%20HCF%20Algorithm)
+
+   Algorithm and editorial of the famous Euclidean HCF Algorithm
+   
 ***
 
 We are also rating the problems based on their difficulty for us:
@@ -35,7 +43,7 @@ We are also rating the problems based on their difficulty for us:
 
 ***
 
-**Current Contributors:**
+**Contact the Contributors at:**
    > Pradyuman Dixit (Pradyuman7)
    - P.Dixit@Student.tudelft.nl
 
