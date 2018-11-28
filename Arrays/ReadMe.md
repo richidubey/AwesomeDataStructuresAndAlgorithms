@@ -20,10 +20,6 @@
 - [Question Link](https://www.codechef.com/problems/RAINBOWA)
 - Currently, Pradyuman's Algorithm is up!
 
-6. FRGTLNG
-- [Question Link](https://www.codechef.com/problems/FRGTNLNG)
-- The solutions are on their way!
-
-7. Cops
+6. Cops
 - [Question Link](https://www.codechef.com/problems/COPS)
-- The solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
