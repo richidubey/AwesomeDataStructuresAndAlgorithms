@@ -25,9 +25,13 @@ Also this Repo will be having all the codes for important data structures and al
    
    Sieve Algorithm for Prime Numbers
    
-- [Arrays](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Arrays)  
+- [Arrays](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Arrays)
 
    Coding and interview problems on arrays with solutions and editorial.
+   
+- [Strings](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Strings)   
+
+   Coding/Interview problems based on Strings.
    
 - [Euclidean HCF Algorithm](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Euclid-s%20GCD%20and%20HCF%20Algorithm)
 
