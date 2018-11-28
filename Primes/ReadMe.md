@@ -6,4 +6,4 @@
 
 2. Prime Anagrams
 - [Question Link](https://community.topcoder.com/stat?c=problem_statement&pm=3458&rd=5869)
-- Solutions are on their way
+- Currently, Partial Pradyuman's Algorithm is up! (full when problem is visible again)
