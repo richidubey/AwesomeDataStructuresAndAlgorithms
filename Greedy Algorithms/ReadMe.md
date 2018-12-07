@@ -14,3 +14,79 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 - For each book, compute the ratio value divided by volume and add books in descending order of this ratio.
 
 **Contents**
+
+1. TACHSTCK
+- [Question Link](https://www.codechef.com/problems/TACHSTCK)
+- Currently, Pradyuman's Algorithm is up!
+
+2. CIELRCPT
+- [Question Link](https://www.codechef.com/problems/CIELRCPT)
+- Currently, Pradyuman's Algorithm is up!
+
+3. MAXDIFF
+- [Question Link](https://www.codechef.com/problems/MAXDIFF)
+- Currently, Pradyuman's Algorithm is up!
+
+4. CHEFST
+- [Question Link](https://www.codechef.com/problems/CHEFST)
+- Solutions are on their way!
+
+5. CAKEDOOM
+- [Question Link](https://www.codechef.com/problems/CAKEDOOM)
+- Solutions are on their way!
+
+6. CLETAB
+- [Question Link](https://www.codechef.com/problems/CLETAB)
+- Solutions are on their way!
+
+7. TADELIV
+- [Question Link](https://www.codechef.com/problems/TADELIVE)
+- Solutions are on their way!
+
+8. MANYCHEF
+- [Question Link]https://www.codechef.com/problems/MANYCHEF)
+- Solutions are on their way!
+
+9. MMPROD
+- [Question Link](https://www.codechef.com/problems/MMPROD)
+- Solutions are on their way!
+
+10. CHEFTMA
+- [Question Link](https://www.codechef.com/problems/CHEFTMA)
+- Solutions are on their way!
+
+11. STICKS
+- [Question Link](https://www.codechef.com/problems/STICKS)
+- Solutions are on their way!
+
+12. BAISED
+- [Question Link](http://www.spoj.com/problems/BAISED/)
+- Solutions are on their way!
+
+13. BALIFE
+- [Question Link](http://www.spoj.com/problems/BALIFE/)
+- Solutions are on their way!
+
+14. GCJ101BB
+- [Question Link](http://www.spoj.com/problems/GCJ101BB/)
+- Solutions are on their way!
+
+15. FGFS
+- [Question Link](https://www.codechef.com/problems/FGFS)
+- Solutions are on their way!
+
+16. KNPSK
+- [Question Link](https://www.codechef.com/problems/KNPSK)
+- Solutions are on their way!
+
+17. LEMUSIC
+- [Question Link](https://www.codechef.com/problems/LEMUSIC)
+- Solutions are on their way!
+
+18. ARRANGE
+- [Question Link](http://www.spoj.com/problems/ARRANGE/)
+- Solutions are on their way!
+
+19. FASHION
+- [Question Link](http://www.spoj.com/problems/FASHION/)
+- Solutions are on their way!
