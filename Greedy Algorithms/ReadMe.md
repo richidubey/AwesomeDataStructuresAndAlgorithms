@@ -25,7 +25,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 3. MAXDIFF
 - [Question Link](https://www.codechef.com/problems/MAXDIFF)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 4. CHEFST
 - [Question Link](https://www.codechef.com/problems/CHEFST)
