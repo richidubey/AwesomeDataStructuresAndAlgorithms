@@ -8,10 +8,3 @@ Recursion in computer science is a method of solving a problem where the solutio
 - Question Link
 - Currently, Pradyuman's Algorithm is up!
 
-2. LFSTACK
-- Question Link
-- Solutions are on their way!
-
-3. FICE
-- Question Link
-- Solutions are on their way!
