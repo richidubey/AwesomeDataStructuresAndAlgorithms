@@ -29,7 +29,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 4. CHEFST
 - [Question Link](https://www.codechef.com/problems/CHEFST)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 5. CAKEDOOM
 - [Question Link](https://www.codechef.com/problems/CAKEDOOM)
