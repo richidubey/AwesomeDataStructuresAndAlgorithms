@@ -44,7 +44,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 - Solutions are on their way!
 
 8. MANYCHEF
-- [Question Link]https://www.codechef.com/problems/MANYCHEF)
+- [Question Link](https://www.codechef.com/problems/MANYCHEF)
 - Solutions are on their way!
 
 9. MMPROD
