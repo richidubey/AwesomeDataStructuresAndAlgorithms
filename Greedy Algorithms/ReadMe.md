@@ -41,7 +41,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 7. TADELIV
 - [Question Link](https://www.codechef.com/problems/TADELIVE)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 8. MANYCHEF
 - [Question Link](https://www.codechef.com/problems/MANYCHEF)
