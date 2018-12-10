@@ -33,7 +33,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 5. CAKEDOOM
 - [Question Link](https://www.codechef.com/problems/CAKEDOOM)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 6. CLETAB
 - [Question Link](https://www.codechef.com/problems/CLETAB)
