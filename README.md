@@ -48,10 +48,18 @@ We are also rating the problems based on their difficulty for us:
 ***
 
 **Contact the Contributors at:**
-   > Pradyuman Dixit (Pradyuman7)
+   > Pradyuman Dixit (Pradyuman7) [More Info](https://Pradyuman7.github.io)
    - P.Dixit@Student.tudelft.nl
 
-   > Richi Dubey (richidubey)
+   > Richi Dubey (richidubey)     [More Info]()
    - f20170099@goa.bits-pilani.ac.in
 
+***
 
+Finding difficulties to code some algorithm? 
+
+> Contact us, or look out for our other algorithm respositories.
+
+- [Quine-McCluskey Algorithm](https://github.com/richidubey/Quine-McCluskey-Algorithm-GUI-Implementation)
+- [Algorithmics](https://github.com/Pradyuman7/Algorithmics)
+- [Important Algorithms](https://github.com/Pradyuman7/ImportantAlgorithms)
