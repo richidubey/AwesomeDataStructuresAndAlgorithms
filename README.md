@@ -48,10 +48,12 @@ We are also rating the problems based on their difficulty for us:
 ***
 
 **Contact the Contributors at:**
-   > Pradyuman Dixit (Pradyuman7) [More Info](https://Pradyuman7.github.io)
+   > Pradyuman Dixit (Pradyuman7) 
+   - [More Info](https://Pradyuman7.github.io)
    - P.Dixit@Student.tudelft.nl
 
-   > Richi Dubey (richidubey)     [More Info]()
+   > Richi Dubey (richidubey)     
+   - [More Info]()
    - f20170099@goa.bits-pilani.ac.in
 
 ***
