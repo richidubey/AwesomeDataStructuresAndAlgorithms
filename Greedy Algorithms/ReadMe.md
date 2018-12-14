@@ -49,7 +49,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 9. MMPROD
 - [Question Link](https://www.codechef.com/problems/MMPROD)
-- Pradyuman's Algorithm is up!
+- Currently, Pradyuman's Algorithm is up!
 
 10. CHEFTMA
 - [Question Link](https://www.codechef.com/problems/CHEFTMA)
