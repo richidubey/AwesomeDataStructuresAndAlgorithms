@@ -49,15 +49,15 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 9. MMPROD
 - [Question Link](https://www.codechef.com/problems/MMPROD)
-- Pradyuman's Algorithm is up!
+- Currently, Pradyuman's Algorithm is up!
 
 10. CHEFTMA
 - [Question Link](https://www.codechef.com/problems/CHEFTMA)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 11. STICKS
 - [Question Link](https://www.codechef.com/problems/STICKS)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 12. BAISED
 - [Question Link](http://www.spoj.com/problems/BAISED/)
