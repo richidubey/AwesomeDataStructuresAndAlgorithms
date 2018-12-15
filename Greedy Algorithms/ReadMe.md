@@ -61,7 +61,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 12. BAISED
 - [Question Link](http://www.spoj.com/problems/BAISED/)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 13. BALIFE
 - [Question Link](http://www.spoj.com/problems/BALIFE/)
