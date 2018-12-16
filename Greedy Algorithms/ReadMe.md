@@ -17,11 +17,13 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 1. TACHSTCK
 - [Question Link](https://www.codechef.com/problems/TACHSTCK)
-- Currently, Richi's and Pradyuman's Algorithm is up! Editorial on the way.
+- Currently, Richi's and Pradyuman's Algorithm is up! 
+- Richi's Editorial Available.
 
 2. CIELRCPT
 - [Question Link](https://www.codechef.com/problems/CIELRCPT)
-- Currently, Pradyuman's Algorithm is up!
+- Richi's and Pradyuman's Algorithm is up! 
+- Richi's and Pradyuman's Editorial Available.
 
 3. MAXDIFF
 - [Question Link](https://www.codechef.com/problems/MAXDIFF)
