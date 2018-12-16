@@ -69,7 +69,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 14. GCJ101BB
 - [Question Link](http://www.spoj.com/problems/GCJ101BB/)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 15. FGFS
 - [Question Link](https://www.codechef.com/problems/FGFS)
