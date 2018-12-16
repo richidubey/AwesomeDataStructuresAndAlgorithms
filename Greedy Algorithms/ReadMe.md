@@ -65,7 +65,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 13. BALIFE
 - [Question Link](http://www.spoj.com/problems/BALIFE/)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 14. GCJ101BB
 - [Question Link](http://www.spoj.com/problems/GCJ101BB/)
