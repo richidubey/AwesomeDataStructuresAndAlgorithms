@@ -17,7 +17,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 1. TACHSTCK
 - [Question Link](https://www.codechef.com/problems/TACHSTCK)
-- Currently, Pradyuman's Algorithm is up!
+- Currently, Richi's and Pradyuman's Algorithm is up! Editorial on the way.
 
 2. CIELRCPT
 - [Question Link](https://www.codechef.com/problems/CIELRCPT)
