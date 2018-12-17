@@ -79,7 +79,7 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 16. KNPSK
 - [Question Link](https://www.codechef.com/problems/KNPSK)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
 17. LEMUSIC
 - [Question Link](https://www.codechef.com/problems/LEMUSIC)
