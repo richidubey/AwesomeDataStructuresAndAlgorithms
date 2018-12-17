@@ -17,6 +17,8 @@ keep doing this until we get 0.( We'll get a 0 when the number becomes a multipl
 * __Used functions :__
 
 -log2(int a) gives log base 2 of integer a
+
+
 -pow(int b,int c) returns b raised to the power of c
 
 Both of them can be used by including the header file <cmath> or <math.h>
