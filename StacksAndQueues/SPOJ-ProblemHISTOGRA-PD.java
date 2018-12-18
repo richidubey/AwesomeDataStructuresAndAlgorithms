@@ -1,49 +1,60 @@
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.Stack;
 
-public class Solution {
-
-	public static int findSmallest(int[] a) {
-		
-		int small = a[0];
-		
-		
-		for(int i=1;i<a.length;i++) {
-			
-			if(a[i]<=small)
-				small = a[i];
-			
-		}
-
-		return small;
-	}
+public class Random41 {
 	
 	public static int findLargestPossibleArea(int[] a) {
-		
-		int count = 0;
-		
-		int large = a[0];
-		
-		for(int i=0;i<a.length;i++) {
-			
-			if(a[i] > large) {
-				large = a[i];
-				count = 1;
-			}
-			
-			else if(a[i] == large)
-				count++;
-			
-		}
-
-		return large*count;
+	 
+	        Stack<Integer> s = new Stack<Integer>(); 
+	        int n = a.length;
+	          
+	        int max = 0; 
+	        int top;   
+	        int m = -1; 
+	        int i = 0; 
+	        while (i < n) { 
+	           
+	            if (s.empty() || a[s.peek()] <= a[i]) 
+	                s.push(i++); 
+	       
+	            
+	            else { 
+	                top = s.peek(); 
+	                s.pop();  
+	       
+	               
+	                m = a[top] * (s.empty() ? i : i - s.peek() - 1); 
+	       
+	                
+	                if (max < m) 
+	                    max = m; 
+	            } 
+	        } 
+	       
+	        
+	        while (s.empty() == false) { 
+	            top = s.peek(); 
+	            s.pop(); 
+	            
+	            if(s.empty())
+	            	m = a[top]*i;
+	            
+	            else
+	            	m = a[top]*(i-s.peek()-1); 
+	       
+	            if (max < m) 
+	                max = m; 
+	        } 
+	       
+	        return max; 
+	  
 	}
 
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Enter number of test cases");
+		System.out.println("Enter");
 		
 		int t = scanner.nextInt();
 
@@ -66,4 +77,5 @@ public class Solution {
 		
 	}
   
+	
 }
