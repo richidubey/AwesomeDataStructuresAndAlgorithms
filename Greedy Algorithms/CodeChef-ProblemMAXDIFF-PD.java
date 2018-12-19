@@ -3,40 +3,30 @@ import java.util.Scanner;
 
 public class Random23 {
 	
-	public static int findMinPossibleWeight(int[] arr) {
+	
+	public static int findMinWeight(int[] arr, int k) {
 		
+		int all = 0;
 		int n = arr.length;
-		int sum1 = 0;
-		int sum2 = 0;
 		
-		Arrays.sort(arr);
+		int sum = 0;
 		
-		if(n%2==0) {
-			
-			int k = n/2 - 1;
-			
-			for(int i=0;i<k;i++)
-				sum1+=arr[i];
-			
-			for(int i=k;i<n;i++)
-				sum2+=arr[i];
-			
-		}
+		for(int i=0;i<n;i++) {
+            
+            all+=arr[i];
+        }
 		
-		else {
-			
-			int k = n/2;
-			
-			for(int i=0;i<k;i++)
-				sum1+=arr[i];
-			
-			for(int i=k;i<n;i++)
-				sum2+=arr[i];
-			
-		}
+        Arrays.sort(arr);
+        
+        k = Math.min(k,n-k);
+        
+        for(int i=0;i<k;i++)
+            sum+=arr[i];
+        
+
+        return all-2*sum;
 		
 		
-		return sum2-sum1;
 	}
 
 	
@@ -58,7 +48,8 @@ public class Random23 {
 			for(int i=0;i<n;i++)
 				arr[i] = scanner.nextInt();
 			
-			System.out.println(findMinPossibleWeight(arr));
+			
+			System.out.println(findMinWeight(arr,k));
 			
 			
 			
