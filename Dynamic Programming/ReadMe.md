@@ -24,8 +24,8 @@ It is simple – for each coin j, Vj≤i, look at the minimum number of coins fo
 
 1. DIVSUBS
 
-> [Question Link](https://www.codechef.com/problems/DIVSUBS)
-> Currently Richi's solution and his editorial is present
+- [Question Link](https://www.codechef.com/problems/DIVSUBS)
+- Currently Richi's solution and his editorial is present
 
 
 
