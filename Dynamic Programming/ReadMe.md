@@ -1,4 +1,4 @@
-# Dynamic Programming
+﻿# Dynamic Programming
 
 What is a dynamic programming, how can it be described? A DP is an algorithmic technique which is usually based on a recurrent formula and one (or some) starting states. A sub-solution of the problem is constructed from previously found ones. DP solutions have a polynomial complexity which assures a much faster running time than other techniques like backtracking, brute-force etc.
 
@@ -20,6 +20,14 @@ It is simple – for each coin j, Vj≤i, look at the minimum number of coins fo
 
 
 **Contents**
+
+
+1. DIVSUBS
+
+> [Question Link](https://www.codechef.com/problems/DIVSUBS)
+> Currently Richi's solution and his editorial is present
+
+
 
 
 
