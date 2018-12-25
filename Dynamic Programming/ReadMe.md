@@ -21,6 +21,41 @@ It is simple – for each coin j, Vj≤i, look at the minimum number of coins fo
 
 **Contents**
 
+1. ALTARRAY
+- [Question Link](https://www.codechef.com/problems/ALTARAY)
+- Solutions are on their way!
+
+2. DELISH
+- [Question Link](https://www.codechef.com/problems/DELISH)
+- Solutions are on their way!
+
+3. DBOY
+- [Question Link](https://www.codechef.com/problems/DBOY)
+- Solutions are on their way!
+
+4. XORSUB
+- [Question Link](https://www.codechef.com/problems/XORSUB)
+- Solutions are on their way!
+
+5. GRID
+- [Question Link](https://www.codechef.com/problems/GRID)
+- Solutions are on their way!
+
+6. TADELIVE
+- [Question Link](https://www.codechef.com/problems/TADELIVE)
+- Solutions are on their way!
+
+7. FROGV
+- [Question Link](https://www.codechef.com/problems/FROGV)
+- Solutions are on their way!
+
+8. MATRIX2
+- [Question Link](https://www.codechef.com/problems/MATRIX2)
+- Solutions are on their way!
+
+9. AMSGAME2
+- [Question Link](https://www.codechef.com/problems/AMSGAME2)
+- Solutions are on their way!
 
 
 
