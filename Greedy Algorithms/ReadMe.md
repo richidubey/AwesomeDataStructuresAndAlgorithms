@@ -84,12 +84,5 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 17. LEMUSIC
 - [Question Link](https://www.codechef.com/problems/LEMUSIC)
-- Solutions are on their way!
+- Currently, Pradyuman's Algorithm is up!
 
-18. ARRANGE
-- [Question Link](http://www.spoj.com/problems/ARRANGE/)
-- Solutions are on their way!
-
-19. FASHION
-- [Question Link](http://www.spoj.com/problems/FASHION/)
-- Solutions are on their way!
