@@ -18,7 +18,7 @@ Current Questions:
  - Editorial: Both Richi's and Pradyuman's Algortihm is up now!
  4. MMASS
  - [Question Link](http://www.spoj.com/problems/MMASS/)
- - Editorial: Currently, Pradyuman's Algorithm is up!
+ - Editorial: Currently, Richi's and Pradyuman's Algorithm is up!
  5. HISTOGRA
  - [Question Link](http://www.spoj.com/problems/HISTOGRA/)
  - Editorial: Currently, Pradyuman's Algorithm is up!

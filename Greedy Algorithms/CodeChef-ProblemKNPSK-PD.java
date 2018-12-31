@@ -45,7 +45,8 @@ public class Random39 {
                     i++;
                     ans = ans1;
                     cw++;
-                } else if (ans2 > ans) {
+                } 
+		else if (ans2 > ans) {
                     i--;
                     j++;
                     ans = ans2;
