@@ -23,7 +23,7 @@ int main()
 	for(int i = 0; i < n; i++)
 	  {
 	  	cin>>a[i];
-	  	cmax=1;
+	  	cmax=1;					//cmax is 1, because currently we have a subsequence of length 1 which i'th number
 	  	
 	  	s[i]=1;
 	  	
@@ -31,9 +31,9 @@ int main()
 	  
 	  	for(int j=i-1;j>=0;j--)
 	  	{
-	  		if(a[i]>a[j])
+	  		if(a[i]>a[j])			//Checks for a smaller element to extend its sequence
 	  		{
-	  			if(cmax<=s[j])
+	  			if(cmax<=s[j])	
 	  			{
 	  				cmax=s[j];
 	  				pmax=j;

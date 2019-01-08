@@ -58,7 +58,7 @@ We are also rating the problems based on their difficulty for us:
    - P.Dixit@Student.tudelft.nl
 
    > Richi Dubey (richidubey)    
-   - [More Info]()
+   - [More Info](https://365arts.me)
    - f20170099@goa.bits-pilani.ac.in
  
    > Aditya Kapoor (AdityaKapoor74)
