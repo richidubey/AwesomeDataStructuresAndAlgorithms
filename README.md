@@ -12,23 +12,12 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 
 
 
-**Contents**
+**Start Learning in this order: **
 
-- [Stacks And Queues](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/StacksAndQueues)
-
-   Everything you may need to learn about Stacks and Queues, from beginner to expert level.
-  
-- [Dynamic Programming](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Dynamic%20Programming)
-
-   Things you must know before diving into DP problem solving.
-  
-- [Sorting Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Sorting%20Algorithms)
-
-   Famous and must know concepts and algorithms for sorting.
-  
 - [Prime Number Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Primes)  
   
    Sieve Algorithm for Prime Numbers
+   
   
 - [Arrays](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Arrays)
 
@@ -37,9 +26,30 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 - [Strings](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Strings)  
 
    Coding/Interview problems based on Strings.
-  
+   
 - [Euclidean HCF Algorithm](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Euclid-s%20GCD%20and%20HCF%20Algorithm)
 
+- [Sorting Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Sorting%20Algorithms)
+
+   Famous and must know concepts and algorithms for sorting.
+
+
+- [Stacks And Queues](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/StacksAndQueues)
+
+   Everything you may need to learn about Stacks and Queues, from beginner to expert level.
+  
+- [Dynamic Programming](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Dynamic%20Programming)
+
+   Things you must know before diving into DP problem solving.
+ 
+ - [Maps](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/tree/master/Maps)
+
+   Important applications of Map data structure.
+  
+
+  
+
+  
    Algorithm and editorial of the famous Euclidean HCF Algorithm
   
 ***
