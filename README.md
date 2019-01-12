@@ -12,7 +12,7 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 
 
 
-**Start Learning in this order: **
+**Start Learning in this order:**
 
 - [Prime Number Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Primes)  
   
