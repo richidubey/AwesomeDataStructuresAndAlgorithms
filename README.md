@@ -17,17 +17,23 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 - [Prime Number Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Primes)  
   
    Sieve Algorithm for Prime Numbers
-   
+
   
 - [Arrays](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Arrays)
 
    Coding and interview problems on arrays with solutions and editorial.
+
   
 - [Strings](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Strings)  
 
    Coding/Interview problems based on Strings.
+
    
 - [Euclidean HCF Algorithm](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Euclid-s%20GCD%20and%20HCF%20Algorithm)
+
+
+- [Binary Search](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Binary%20Search)
+
 
 - [Sorting Algorithms](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Sorting%20Algorithms)
 
@@ -37,10 +43,12 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 - [Stacks And Queues](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/StacksAndQueues)
 
    Everything you may need to learn about Stacks and Queues, from beginner to expert level.
+
   
 - [Dynamic Programming](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Dynamic%20Programming)
 
    Things you must know before diving into DP problem solving.
+
  
  - [Maps](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/tree/master/Maps)
 
