@@ -13,76 +13,83 @@ In a greedy solution, we proceed by making locally optimal choices. For instance
 
 - For each book, compute the ratio value divided by volume and add books in descending order of this ratio.
 
-**Contents**
 
-1. TACHSTCK
+These Questions are given in ascending order of difficulty(We try our best to sort them :p ): 
+
+**Contents**
+> Minimum Absolute Difference in an Array - Hackkerrank 
+- [Question Link](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+- Currently, Richi's Algorithm is up! 
+- Editorial's are on the way!
+
+> TACHSTCK
 - [Question Link](https://www.codechef.com/problems/TACHSTCK)
 - Currently, Richi's and Pradyuman's Algorithm is up! 
 - Richi's Editorial Available.
 
-2. CIELRCPT
+> CIELRCPT
 - [Question Link](https://www.codechef.com/problems/CIELRCPT)
 - Richi's and Pradyuman's Algorithm is up! 
 - Richi's and Pradyuman's Editorial Available.
 
-3. MAXDIFF
+> MAXDIFF
 - [Question Link](https://www.codechef.com/problems/MAXDIFF)
 - Currently, Richi's and Pradyuman's Algorithm is up! 
 - Richi's Editorial is also present.
 
-4. CHEFST
+> CHEFST
 - [Question Link](https://www.codechef.com/problems/CHEFST)
 - Currently, Pradyuman's Algorithm is up!
 
-5. CAKEDOOM
+> CAKEDOOM
 - [Question Link](https://www.codechef.com/problems/CAKEDOOM)
 - Currently, Pradyuman's Algorithm is up!
 
-6. CLETAB
+> CLETAB
 - [Question Link](https://www.codechef.com/problems/CLETAB)
 - Solutions are on their way!
 
-7. TADELIV
+> TADELIV
 - [Question Link](https://www.codechef.com/problems/TADELIVE)
 - Currently, Pradyuman's Algorithm is up!
 
-8. MANYCHEF
+> MANYCHEF
 - [Question Link](https://www.codechef.com/problems/MANYCHEF)
 - Solutions are on their way!
 
-9. MMPROD
+> MMPROD
 - [Question Link](https://www.codechef.com/problems/MMPROD)
 - Currently, Pradyuman's Algorithm is up!
 
-10. CHEFTMA
+> CHEFTMA
 - [Question Link](https://www.codechef.com/problems/CHEFTMA)
 - Currently, Pradyuman's Algorithm is up!
 
-11. STICKS
+> STICKS
 - [Question Link](https://www.codechef.com/problems/STICKS)
 - Currently, Pradyuman's Algorithm is up!
 
-12. BAISED
+> BAISED
 - [Question Link](http://www.spoj.com/problems/BAISED/)
 - Currently, Pradyuman's Algorithm is up!
 
-13. BALIFE
+> BALIFE
 - [Question Link](http://www.spoj.com/problems/BALIFE/)
 - Currently, Pradyuman's Algorithm is up!
 
-14. GCJ101BB
+> GCJ101BB
 - [Question Link](http://www.spoj.com/problems/GCJ101BB/)
 - Currently, Pradyuman's Algorithm is up!
 
-15. FGFS
+> FGFS
 - [Question Link](https://www.codechef.com/problems/FGFS)
 - Solutions are on their way!
 
-16. KNPSK
+> KNPSK
 - [Question Link](https://www.codechef.com/problems/KNPSK)
 - Currently, Pradyuman's Algorithm is up!
 
-17. LEMUSIC
+> LEMUSIC
 - [Question Link](https://www.codechef.com/problems/LEMUSIC)
 - Currently, Pradyuman's Algorithm is up!
 
