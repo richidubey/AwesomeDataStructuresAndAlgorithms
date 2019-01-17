@@ -1,25 +1,29 @@
 # Contents
 
-1. LeCandy
+> Finding Odd Occurence (as pdd-occur)
+- [Question Link](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
+- Currently, Richi's Algorithm is up!
+
+> LeCandy
 - [Question Link](https://www.codechef.com/problems/LECANDY)
 - Currently, Pradyuman's Algorithm is up!
 
-2. CNote
+> CNote
 - [Question Link](https://www.codechef.com/problems/CNOTE)
 - Currently, Pradyuman's Algorithm is up!
 
-3. Salary
+> Salary
 - [Question Link](https://www.codechef.com/problems/SALARY)
 - Currently, Pradyuman's Algorithm is up!
 
-4. CHN15A
+> CHN15A
 - [Question Link](https://www.codechef.com/problems/CHN15A)
 - Currently, the question is un-available to view :( 
 
-5. RaninbowA
+> RaninbowA
 - [Question Link](https://www.codechef.com/problems/RAINBOWA)
 - Currently, Pradyuman's Algorithm is up!
 
-6. Cops
+> Cops
 - [Question Link](https://www.codechef.com/problems/COPS)
 - Currently, Pradyuman's Algorithm is up!
