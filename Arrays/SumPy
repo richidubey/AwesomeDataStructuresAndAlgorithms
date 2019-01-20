@@ -1,0 +1,80 @@
+As this competition has been closed, I am adding the question as well.
+
+SumPy
+
+Sarthak has recently started studying for internship tests, and he being a Maths + CS major wants an internship involving both concepts of mathematics and computer science.
+
+So his interviewer gives him a simple task to perform, given two numbers L and R (L <= R) print out the sum of ALL factors of all numbers(including 1 and the number iteself) from L to R (both numbers inclusive). Your job is to help him achieve his task.
+
+Input Format
+
+The first line contains T, the number of test cases.
+
+The next T lines contain 2 integers each, denoting L and R.
+
+Constraints
+
+1 <= T <= 105
+
+1 <= L <= R <= 106
+
+Output Format
+
+For every test case, print the answer i.e. the sum of factors of all numbers from L to R.
+
+Sample Input 0
+
+2
+1 4
+5 8
+Sample Output 0
+
+15
+41
+Explanation 0
+
+For the first case i.e 1 to 4 we have the following factors for each number in the range. (1 : 1), (2 : 1, 2), (3 : 1, 3), (4 : 1, 2, 4)
+
+1 + 1 + 2 + 1 + 3 + 1 + 2 + 4 = 15
+
+
+
+Code:-
+
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int t;
+    cin>>t;
+    long long int arr[100005]={0};
+    long long int arr1[100005]={0};
+   
+    
+    for(int i=1;i<100005;i++)
+    {
+        for(int j=i;j<100005;j=j+i)
+            arr[j]+=i;
+    }
+    
+    
+    long long int sum=0;
+    for(int i=0;i<100004;i++)
+    {
+       sum+=arr[i];
+       arr1[i]=sum; 
+    }
+    while(t--)
+    {
+       long long int l,r;
+        cin >>l >>r;
+        cout <<(arr1[r]-arr1[l-1])<<endl;
+    }
+    return 0;
+}
