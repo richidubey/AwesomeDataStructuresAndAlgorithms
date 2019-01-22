@@ -1,0 +1,115 @@
+As this competition is closed, I am adding the question as well
+
+Ryuk and Apples
+
+Ryuk loves to eat apples. He has apples arranged in a circle, at positions 1 to N. He continues to eat apples once he starts eating them. He has limited time and wants to eat maximum apples in given time. He can start eating apples from any any position (i) but once he starts he has to eat them in circular order until he has no time left or he reaches (i-1) (for i>1 and N for i=1) i.e. eats all the apples. Also Ryuk does not eat an apple partially.
+
+Input Format
+
+First line contains 1 integer t denoting number of test cases.
+
+Each test case consists of 2 lines:
+
+First line consists of 2 space separated integers n (total number of apples) and total (total time with Ryuk)
+
+Second line consists of n space separated integers denoting time taken to eat each apple ai
+
+Constraints
+
+1 <= n <= 10^5
+
+1 <= t <= 10^3
+
+0 <= a[i] <= 10^4
+
+Output Format
+
+For each test case output a single integer denoting maximum number of apples Ryuk can eat on a new line
+
+Sample Input 0
+
+1
+4 5
+3 1 2 1
+Sample Output 0
+
+3
+Explanation 0
+
+Ryuk will be able to eat maximum apples if he starts from 2nd apple and total time taken by him will 4
+
+Sample Input 1
+
+2
+3 3
+2 2 3
+6 10
+2 3 4 2 1 1
+Sample Output 1
+
+1
+5
+Explanation 1
+
+For first case no matter from where Ryuk starts eating apples he can eat maximum 1 only.
+
+For second case Ryuk will be able to eat maximum apples by starting from 4th apple.
+
+If we assume apples to be 1-indexed then he will eat 4th,5th,6th,1st and 2nd apple.
+
+
+Code:-
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int t;
+    cin >>t;
+    while(t>0)
+    {
+        int n,total,m;
+        long long int sum=0;
+        cin >>n >>total;
+        int arr[2*n],freq[n]={0};
+        for(int i=0;i<n;i++)
+        {
+            cin >>m;
+            arr[i]=m;
+            arr[n+i]=m;
+        }
+        sum=0;
+        int k=0;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=k;;j++)
+            {
+                if(sum+arr[j]<=total&&(j-i<n))
+                {
+                    sum+=arr[j];
+                }
+                else
+                {
+                    freq[i]=j-i;
+                    sum = sum-arr[i];
+                    k=j;
+                    break;
+                }
+            }
+        }
+        int max_elem=0;
+        for(int i=0;i<n;i++)
+        {
+            if(max_elem<freq[i])
+                max_elem=freq[i];
+        }
+        cout<<max_elem<<endl;
+        t--;
+    }
+    return 0;
+}

@@ -1,0 +1,92 @@
+As this competition is closed I am adding the question as well
+
+Two Gram
+
+Two-gram is an ordered pair (i.e. string of length two) of capital Latin letters. For example, "AZ", "AA", "ZA" — three distinct two-grams.
+
+You are given a string s consisting of n capital Latin letters. Your task is to find any two-gram contained in the given string as a substring (i.e. two consecutive characters of the string) maximal number of times. For example, for string s = "BBAABBBA" the answer is two-gram "BB", which contained in s three times.
+
+In other words, find the most frequent two-gram. If there are multiple two-grams with the same frequency, print the lexicographically largest.
+
+Note that occurrences of the two-gram can overlap with each other.
+
+Input Format
+
+The first line contains T, the number of test cases.
+
+The next T lines, each contains a string consisting of uppercase letters.
+
+Constraints
+
+1 <= T <= 100
+
+2 <= length of strings <= 105
+
+Output Format
+
+For every test case, print the most frequent two-gram and its frequency followed by a space in a new line.
+
+Sample Input 0
+
+2
+ABACABA
+ZZZAA
+Sample Output 0
+
+BA
+ZZ
+
+
+Code:-
+
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <bits/stdc++.h>
+using namespace std;
+
+
+int main() {
+    int t;
+    cin >>t;
+    while (t>0)
+    {
+        int arr[26][26]={{0}},len,elem1,elem2,max_elem,i_max,j_max;
+        string s;
+        i_max=0;
+        j_max=0;
+        max_elem=0;
+        cin >>s;
+        len = s.size();
+        for(int i=0;i<len-1;i++)
+        {
+            elem1=int(s[i]);
+            elem1=elem1-65;
+            elem2=int(s[i+1]);
+            elem2 = elem2-65;
+            arr[elem1][elem2]+=1;
+        }
+        for(int i=0;i<26;i++)
+        {
+           for(int j=0;j<26;j++)
+           {
+               if(max_elem<=arr[i][j])
+               {
+                   max_elem = arr[i][j];
+                   i_max=i;
+                   j_max=j;
+               }
+           }
+        }
+        i_max=i_max+65;
+        j_max=j_max+65;
+        // cout <<i_max <<' ' <<j_max <<endl;
+        cout<<char(i_max) <<char(j_max) <<endl;
+        t--;
+    }
+    return 0;
+}
