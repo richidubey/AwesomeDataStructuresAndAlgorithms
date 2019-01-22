@@ -3,6 +3,12 @@
 > Finding Odd Occurence (as pdd-occur)
 - [Question Link](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
 - Currently, Richi's Algorithm is up!
+- [Editorial](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
+
+> Finding the largest consecutive sub-array sum (Kadane's Algorithm)
+- [Question Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- Currently, Richi's algo is up! 
+- [Editorial](ttps://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 
 > LeCandy
 - [Question Link](https://www.codechef.com/problems/LECANDY)
