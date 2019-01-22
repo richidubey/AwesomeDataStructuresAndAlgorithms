@@ -34,7 +34,7 @@ int main() {
 		
 		
 		
-		while(rowu<=rowd&&colr>=coll)
+		while(rowu<=rowd&&colr>=coll) // These conditions are important because inside the last two if of each iteration we do coll++ and rowd--. So gotta check for the next two for loops
 		{
 			
 			for(int i=coll;i<=colr;i++)
@@ -52,7 +52,7 @@ int main() {
 			
 	//		cout<<"Rowu = " <<rowu<<" Rowd = "<<rowd<<" Coll = "<<coll<<" Colr = "<<colr<<endl;
 			
-			if(rowu<=rowd)
+			if(rowu<=rowd)  // This is really important because inside the loop and before this line we have done rowu++ 
 			{
 			
 			for(int i=colr;i>=coll;i--)
@@ -64,7 +64,7 @@ int main() {
 			
 			}
 			
-			if(colr>=coll)
+			if(colr>=coll) // This is really important because inside the loop and before this line we have done colr-- 
 			{
 			
 			
