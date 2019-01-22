@@ -8,7 +8,12 @@
 > Finding the largest consecutive sub-array sum (Kadane's Algorithm)
 - [Question Link](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 - Currently, Richi's algo is up! 
-- [Editorial](ttps://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+- [Editorial](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+
+> Maximize number of ones from given binary array
+- [Question Link](https://practice.geeksforgeeks.org/problems/maximize-number-of-1s/0)
+- Currently, Richi's algo is up! 
+- [Editorial](https://www.geeksforgeeks.org/find-zeroes-to-be-flipped-so-that-number-of-consecutive-1s-is-maximized/)
 
 > LeCandy
 - [Question Link](https://www.codechef.com/problems/LECANDY)
