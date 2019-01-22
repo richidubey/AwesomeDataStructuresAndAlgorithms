@@ -1,6 +1,6 @@
 ## Arrays
 
-We have tried to sort the questions in increasing order of difficulty below. If you found the order wrong, please message us.
+We have tried to sort the questions in increasing order of difficulty below. If you find the order wrong, please message us.
 
 Happy Problem Solving!!
 
