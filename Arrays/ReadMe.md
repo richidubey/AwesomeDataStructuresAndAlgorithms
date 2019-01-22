@@ -1,6 +1,17 @@
+## Arrays
+
+We have tried to sort the questions in increasing order of difficulty below. If you found the order wrong, please message us.
+
+Happy Problem Solving!!
+
 # Contents
 
-> Finding Odd Occurence (as pdd-occur)
+> Finding the missing number (as missing-number-in)
+- [Question Link](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+- Currently, Richi's Algorithm is up!
+- [Editorial](https://www.geeksforgeeks.org/find-the-missing-number/)
+
+> Finding Odd Occurence (as odd-occur)
 - [Question Link](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
 - Currently, Richi's Algorithm is up!
 - [Editorial](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
@@ -14,6 +25,13 @@
 - [Question Link](https://practice.geeksforgeeks.org/problems/maximize-number-of-1s/0)
 - Currently, Richi's algo is up! 
 - [Editorial](https://www.geeksforgeeks.org/find-zeroes-to-be-flipped-so-that-number-of-consecutive-1s-is-maximized/)
+
+> Rotating a matrix (as rotate-matrix)
+- [Question Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0)
+- Currently, Richi's algo is up! 
+We belive that the editorial given by GfG is a very good one, so we wont be uploading our tutorial for this question.
+- [Editorial](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)
+
 
 > LeCandy
 - [Question Link](https://www.codechef.com/problems/LECANDY)
