@@ -29,8 +29,16 @@ Happy Problem Solving!!
 > Rotating a matrix (as rotate-matrix)
 - [Question Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0)
 - Currently, Richi's algo is up! 
-We belive that the editorial given by GfG is a very good one, so we wont be uploading our tutorial for this question.
+   
+   We belive that the editorial given by GfG is a very good one, so we wont be uploading our editorial for this question.
 - [Editorial](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)
+
+> Traversing a matrix in a spiral way (as spirally-traverse)
+- [Question Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+- Currently, Richi's algo is up! 
+
+  We belive that the editorial given by GfG is a very good one, so we wont be uploading our editorial for this question.(Although, we have commented our codes!).
+- [Editorial](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
 
 
 > LeCandy
