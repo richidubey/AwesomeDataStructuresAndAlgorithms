@@ -23,6 +23,11 @@ Mostly we'll be taking up new questions and topics from the following link, but 
 
    Coding and interview problems on arrays with solutions and editorial.
 
+
+- [Geometry](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Geometry)
+
+   Questions that involve use of geometry and mathematical knowledge
+
   
 - [Strings](https://github.com/Pradyuman7/AwesomeDataStructuresAndAlgorithms/tree/master/Strings)  
 
