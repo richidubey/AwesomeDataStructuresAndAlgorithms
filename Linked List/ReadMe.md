@@ -1,7 +1,7 @@
 ﻿## Linked List
 
 
-First learn about linked list and it's implementation from :  
+First learn about linked list and it's implementation from :
 [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
 
 and try to solve these basic questions from :
