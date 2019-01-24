@@ -16,6 +16,6 @@ Questions sorted in increasing order of difficulty :
 1. Gfg: Remove duplicate elements from an array (as rem-dupli.cpp)
 
 - [Question Link](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
-- Currently Richi's solution
+- Currently Richi's solution is up!
 - We have uploaded only the driver function, rest of the code is given in the question.
 - [Official Editorial](https://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/)
