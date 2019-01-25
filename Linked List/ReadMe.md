@@ -35,3 +35,11 @@ Questions sorted in increasing order of difficulty :
 - [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Linked%20List/Editorial-Detect-Loop-RD.md)
 - [Official Editorial](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/)
 
+4. Gfg: Return the intersection point of two linked list (as Intersec-Point.cpp)
+
+- [Question Link](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+- Currently Richi's solution is up!!
+- We have uploaded only the driver function, rest of the code is given in the question.
+- [Official Editorial](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
+
+
