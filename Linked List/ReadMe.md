@@ -47,7 +47,7 @@ Questions sorted in increasing order of difficulty :
 - [Question Link](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 - Currently Richi's solution is up!!
 - We have uploaded only the driver function, rest of the code is given in the question.
-- [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Linked%20List/Editorial-Rotate-Linked-RD)
+- [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Linked%20List/Editorial-Rotate-Linked-RD.md)
 - [Official Editorial](https://www.geeksforgeeks.org/rotate-a-linked-list/)
 
 
