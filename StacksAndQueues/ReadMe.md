@@ -21,7 +21,9 @@ Current Questions:
  - Editorial: Currently, Richi's and Pradyuman's Algorithm is up!
  5. HISTOGRA
  - [Question Link](http://www.spoj.com/problems/HISTOGRA/)
- - Editorial: Currently, Pradyuman's Algorithm is up!
+ -  Currently, Richi's and Pradyuman's Algorithm is up!  
+ - [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/StacksAndQueues/SPOJ-ProblemHISTOGRA-Editorial-RD.md)
+
  6. D. Maximum XOR Secondary
  - [Question Link](http://codeforces.com/problemset/problem/281/D)
  - Editorial: Currently, Praduman's Algorithm is up!
