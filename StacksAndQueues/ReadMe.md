@@ -22,7 +22,7 @@ Current Questions:
  5. HISTOGRA
  - [Question Link](http://www.spoj.com/problems/HISTOGRA/)
  -  Currently, Richi's and Pradyuman's Algorithm is up!  
- - [Richi's Editorial]()
+ - [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/StacksAndQueues/SPOJ-ProblemHISTOGRA-Editorial-RD.md)
 
  6. D. Maximum XOR Secondary
  - [Question Link](http://codeforces.com/problemset/problem/281/D)
