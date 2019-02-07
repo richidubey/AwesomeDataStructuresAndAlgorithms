@@ -31,6 +31,19 @@ Current Questions:
  - [Question Link](http://www.spoj.com/problems/ANARC09A/)
  - Editorial: Currently, Pradyuman's Algorithm is up!
 
+ 8. Max_element
+ - [Question Link](https://www.hackerrank.com/challenges/maximum-element/problem)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+ 9.EqualStacks
+ - [Question Link](https://www.hackerrank.com/challenges/equal-stacks/problem)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+ 10.GameOfTwoStacks
+ - [Question Link](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+
 <br/><br/>
 If you have any doubts, feel free to mail the contributors. Mailing Addresses are at the homepage of repository.
 
