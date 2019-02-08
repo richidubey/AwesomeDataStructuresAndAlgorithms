@@ -12,6 +12,25 @@ Current Questions:
  - [Question Link](https://www.hackerrank.com/challenges/maximum-element/problem)
  - Editorial: Currently, Aditya's Algorithm is up!
  
+  > BalancedParanthesisVariation
+ - [Question Link](http://codeforces.com/contest/1095/problem/E)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+ 
+  > NextGreatestElement
+ - [Question Link](https://www.geeksforgeeks.org/next-greater-element/)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+ 
+  > NextMinimalElement
+ - [Question Link](http://codeforces.com/contest/1095/problem/E)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
+ 
+  > PrefixToPostfix
+ - [Question Link](https://www.geeksforgeeks.org/prefix-postfix-conversion/)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
  > Largest Rectangle
  - [Question Link](https://www.hackerrank.com/challenges/largest-rectangle/problem)
  - Editorial: Currently, Aditya's Algorithm is up!
