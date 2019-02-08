@@ -12,6 +12,10 @@ Current Questions:
  - [Question Link](https://www.hackerrank.com/challenges/maximum-element/problem)
  - Editorial: Currently, Aditya's Algorithm is up!
  
+ > Largest Rectangle
+ - [Question Link](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+ - Editorial: Currently, Aditya's Algorithm is up!
+ 
  > EqualStacks
  - [Question Link](https://www.hackerrank.com/challenges/equal-stacks/problem)
  - Editorial: Currently, Aditya's Algorithm is up!
