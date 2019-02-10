@@ -21,11 +21,6 @@ Current Questions:
  - Sultion: Currently, Aditya's Algorithm is up!
  
  
-  > NextGreatestElement
- - [Question Link](https://www.geeksforgeeks.org/next-greater-element/)
- - Sultion: Currently, Aditya's Algorithm is up!
- 
- 
   > NextMinimalElement
  - [Question Link](http://codeforces.com/contest/1095/problem/E)
  - Sultion: Currently, Aditya's Algorithm is up!
@@ -61,7 +56,7 @@ Current Questions:
  > Geeks for Geeks : Next Greater Element
  - [Question Link](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
  - We have also uploaded a recursive sol which gives TLE. Go through it to get a better understanding of the way this que is solved.
- - Solution : Richi's algorithm is up now!  
+ - Solution : Richi's and Aditya's algorithm is up now!  
  - [Official Editorial](https://www.geeksforgeeks.org/next-greater-element/)
   
 
