@@ -10,37 +10,46 @@ Current Questions:
 
  > InterviewBit - Nearest Smaller Element
  - [Question Link](https://www.interviewbit.com/problems/nearest-smaller-element/)
- - Sultion: Currently, Richi's and Aditya's Algorithm is up!
+ - Solution: Currently, Richi's and Aditya's Algorithm is up!
 
  > Max_element
  - [Question Link](https://www.hackerrank.com/challenges/maximum-element/problem)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
  
   > BalancedParanthesisVariation
  - [Question Link](http://codeforces.com/contest/1095/problem/E)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
  
  
   > NextMinimalElement
  - [Question Link](http://codeforces.com/contest/1095/problem/E)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
+
+
  
+  > GfG-Number-Next-Greatest
+ - [Question Link](https://www.geeksforgeeks.org/number-nges-right/)
+ - There is no specific question, but  i have coded the algorithm needed to generate the next greater element for each element in O(n)
+ - Solution: Currently, Richi's Algorithm is up!
+ - Richi's Editorial : Coming Soon!!
+ - Official Editorial : On the same link as que link
+
  
   > PrefixToPostfix
  - [Question Link](https://www.geeksforgeeks.org/prefix-postfix-conversion/)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
  
  > Largest Rectangle
  - [Question Link](https://www.hackerrank.com/challenges/largest-rectangle/problem)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
  
  > EqualStacks
  - [Question Link](https://www.hackerrank.com/challenges/equal-stacks/problem)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
  
  > GameOfTwoStacks
  - [Question Link](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
- - Sultion: Currently, Aditya's Algorithm is up!
+ - Solution: Currently, Aditya's Algorithm is up!
 
  > Hackerrank Balanced Bracket
  - [Question Link](https://www.hackerrank.com/challenges/balanced-brackets/problem)
