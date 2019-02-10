@@ -8,40 +8,44 @@ If you stil stumble, well make sure you don't. That's the point.
 
 Current Questions: 
 
+ > InterviewBit - Nearest Smaller Element
+ - [Question Link](https://www.interviewbit.com/problems/nearest-smaller-element/)
+ - Sultion: Currently, Richi's and Aditya's Algorithm is up!
+
  > Max_element
  - [Question Link](https://www.hackerrank.com/challenges/maximum-element/problem)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
   > BalancedParanthesisVariation
  - [Question Link](http://codeforces.com/contest/1095/problem/E)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  
   > NextGreatestElement
  - [Question Link](https://www.geeksforgeeks.org/next-greater-element/)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  
   > NextMinimalElement
  - [Question Link](http://codeforces.com/contest/1095/problem/E)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  
   > PrefixToPostfix
  - [Question Link](https://www.geeksforgeeks.org/prefix-postfix-conversion/)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  > Largest Rectangle
  - [Question Link](https://www.hackerrank.com/challenges/largest-rectangle/problem)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  > EqualStacks
  - [Question Link](https://www.hackerrank.com/challenges/equal-stacks/problem)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
  
  > GameOfTwoStacks
  - [Question Link](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
- - Editorial: Currently, Aditya's Algorithm is up!
+ - Sultion: Currently, Aditya's Algorithm is up!
 
  > Hackerrank Balanced Bracket
  - [Question Link](https://www.hackerrank.com/challenges/balanced-brackets/problem)
