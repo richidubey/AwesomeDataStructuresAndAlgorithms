@@ -1,65 +1,48 @@
-#include <bits/stdc++.h>	
+map < int , vector<Node *> > put;
 
-using namespace std;
 
-class Node {
-    public:
-        int data;
-        Node *left;
-        Node *right;
-        Node(int d) {
-            data = d;
-            left = NULL;
-            right = NULL;
-        }
-};
+    int minm=0,maxm=0;
+    
 
-class Solution {
-    public:
-  		Node* insert(Node* root, int data) {
-            if(root == NULL) {
-                return new Node(data);
-            } else {
-                Node* cur;
-                if(data <= root->data) {
-                    cur = insert(root->left, data);
-                    root->left = cur;
-                } else {
-                    cur = insert(root->right, data);
-                    root->right = cur;
-               }
 
-               return root;
-           }
-        }
-/*
-class Node {
-    public:
-        int data;
-        Node *left;
-        Node *right;
-        Node(int d) {
-            data = d;
-            left = NULL;
-            right = NULL;
-        }
-};
-*/
-    queue <Node *> put;
+void preOrder(Node *root,int curr)
+{
 
-    void levelOrder(Node * root) {
-
-        if(root==NULL)
-        return;
-
-        put.push(root->left);
-        put.push(root->right);
-
-        cout<<put.front()->data<<" ";
-        put.pop();
-
-        levelOrder(put.front());
-
+    if(root==NULL)
+    return ;
+    
+    if(curr<minm)
+    minm=curr;
+    
+    if(curr>maxm)
+    maxm=curr;
+    
+    put[curr].push_back(root);
+    
+    
+    preOrder(root->left,curr-1);
+    
+    preOrder(root->right,curr+1);
+    
+}
+void verticalOrder(Node *root)
+{
+    //Your code here
+    minm=0;
+    maxm=0;
+    
+    
+    preOrder(root,0);
+    
+    
+    for(int i=minm;i<=maxm;i++)
+    {
+        for(int j=0;j<put[i].size();j++)
+        cout<<put[i][j]->data<<" ";
     }
+    
+    put.clear();
+    
+}
 
-}; //End of Solution
+
