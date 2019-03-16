@@ -1,7 +1,7 @@
 ## Things that Richi couldn't do at the moment and would go back on no matter what!!
 
 
-- SPOJ Histogram [Question Link](http://www.spoj.com/problems/HISTOGRA/)
+
 - CodeChef CLETAB [Question Link](https://www.codechef.com/problems/CLETAB)
 - Codechef CakeDoom [Question Link](https://www.codechef.com/problems/CAKEDOOM)
 - Codechef ChiefAndStones[Question Link](https://www.codechef.com/problems/CHEFST)
