@@ -25,4 +25,7 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/party.cpp)   
 [Official Editorial](http://codeforces.com/blog/entry/2584)   
  
-
+> Mirror Image: HackerEarth   
+[Question Link](https://www.hackerearth.com/problem/algorithm/mirror-image-1/)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/mirror.cpp)   
+The Code is self-explanatory. If you stil have doubts, request an editorial by contacting us. We'd be happy to provide one.
