@@ -26,3 +26,12 @@
 [Official Editorial](http://codeforces.com/blog/entry/2584)   
  
 
+##BST
+
+> Inorder Successor   
+[Question Link](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)   
+[Richi's Solution - O(n)](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/inorder-succ-bst.cpp)   
+[Richi's Solution - O(h-height of tree)](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/inorder-succ-bst-search.cpp)   
+[Official Editorial](https://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/)   
+
+
