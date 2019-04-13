@@ -10,12 +10,12 @@
 
 
 
-> Top View : Hackeraank   
+> Top View : HackerRank   
 [Question Link](https://www.hackerrank.com/challenges/tree-top-view/problem)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/TopViewHR.cpp)   
 [Official Editorial](https://www.hackerrank.com/challenges/tree-top-view/editorial)   
 
-> Is it a Binary Search Tree : Hackeraank   
+> Is it a Binary Search Tree : HackerRank   
 [Question Link](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/is-binary-search.cpp)   
 [Official Editorial](https://www.hackerrank.com/challenges/is-binary-search-tree/editorial)   
