@@ -1,5 +1,7 @@
 # Contents   
 
+>BFS Traversal ( Just Plain Code for understanding) 
+[Richi's Implementation](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/bfs.cpp)   
 
 > Topological Ordering(Using DFS-GeeksForGeeks)   
 [Question Link](https://practice.geeksforgeeks.org/problems/topological-sort/1)   
