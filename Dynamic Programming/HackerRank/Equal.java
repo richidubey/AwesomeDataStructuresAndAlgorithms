@@ -5,23 +5,6 @@ import java.util.Scanner;
 
 public class Equal {
 
-    // 1, 2 or 5 added to all but one in an operation
-    // return min operations to equalise the array
-
-    // adding to all but one is same as subtracting from only one
-
-    // the number we bring our array down to will be min or min - 1 or min - 2 or min - 3 or min - 4
-    // but not min - 5 as we have +5 operation
-
-    // 1
-    // 4
-    // 2 2 3 7
-    // Output : 2
-    // 1
-    // 3
-    // 10 7 12
-    // Output : 3
-
     static int equal(int[] arr){
 
         ArrayList<Integer> minimumChoices = new ArrayList<>();
