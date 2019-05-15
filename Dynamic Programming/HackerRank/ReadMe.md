@@ -5,3 +5,6 @@
 
 ### 2. Equal
 - Currently, Pradyuman's algorithm is up.
+
+### 3. Sherlock and Cost
+- Currently, Pradyuman's algorithm is up.
