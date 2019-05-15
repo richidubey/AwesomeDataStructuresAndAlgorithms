@@ -80,13 +80,13 @@ We are also rating the problems based on their difficulty for us:
 ***
 
 **Contact the Contributors at:**
-   > Pradyuman Dixit (richidubey)
-   - [More Info](https://pradyuman7.github.io)
-   - P.Dixit@Student.tudelft.nl
-
    > Richi Dubey (richidubey)    
    - [More Info](https://365arts.me)
    - f20170099@goa.bits-pilani.ac.in
+   
+   > Pradyuman Dixit (Pradyuman7)
+   - [More Info](https://pradyuman7.github.io)
+   - P.Dixit@Student.tudelft.nl
  
    > Aditya Kapoor (AdityaKapoor74)
    - f20170963@goa.bits-pilani.ac.in
