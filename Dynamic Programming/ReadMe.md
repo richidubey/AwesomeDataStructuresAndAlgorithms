@@ -20,6 +20,15 @@ A DP is an algorithmic technique which is usually based on a recurrent formula a
 - [Question Link]https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0
 - Currently Richi's solution is uploaded
 
+3. Stickler Thief  
+
+- [Question Link](https://practice.geeksforgeeks.org/problems/stickler-theif/)
+- [Richi's Solution(Basic)](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/stickler.cpp)
+- [Richi's Solution(O(n) that works)](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/stickler-mod.cpp)
+- [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/stickler-edi.txt)
+
+
+
 1. ALTARRAY
 - [Question Link](https://www.codechef.com/problems/ALTARAY)
 - Solutions are on their way!
