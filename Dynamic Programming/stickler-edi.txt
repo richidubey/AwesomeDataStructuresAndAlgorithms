@@ -1,0 +1,9 @@
+We'll take max of <<Current + Max of Two Elements Before Current(As we're taking current, we can't take curr - 1 element)>> vs <<Max till curr-1 element>>
+
+So it would be a simple dp : max(a[i]+getmax(a,i-2),getmax(a,i-1));
+
+with ending condition  : if(i<0) return 0; 
+			(as we're starting from backwards, we can go other way round too)
+			
+
+To optimize it, we'll save this data in an array and use it to store already calculated dp for particular places in array. We'll use memset for it. Take note that memset can't be used to assign any other value than 0 and -1;

@@ -17,4 +17,8 @@
 - [Question Link](https://www.spoj.com/problems/AGGRCOW/)
 - Currently, Richi's algorithm is up
 
+> Pie - SPOJ
+- [Question Link](https://www.spoj.com/problems/PIE/)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/PIE.cpp)
+- Currently, Richi's algorithm is up
 
