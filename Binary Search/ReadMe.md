@@ -27,3 +27,8 @@
 - [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/double-helix.cpp)
 - Currently, Richi's algorithm is up
 
+> Fill the Cistern (CISTFILL SPOJ(Diff : 2/5))
+- [Question Link](https://www.spoj.com/problems/CISTFILL/)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/cistfill.cpp)
+- Currently, Richi's algorithm is up
+
