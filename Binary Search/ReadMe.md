@@ -19,6 +19,16 @@
 
 > Pie - SPOJ
 - [Question Link](https://www.spoj.com/problems/PIE/)
-- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/PIE.cpp)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/pie.cpp)
+- Currently, Richi's algorithm is up
+
+> Double Helix (ANARC05B SPOJ(Diff : 3/5))
+- [Question Link](https://www.spoj.com/problems/ANARC05B/)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/double-helix.cpp)
+- Currently, Richi's algorithm is up
+
+> Fill the Cistern (CISTFILL SPOJ(Diff : 2/5))
+- [Question Link](https://www.spoj.com/problems/CISTFILL/)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Binary%20Search/cistfill.cpp)
 - Currently, Richi's algorithm is up
 

@@ -27,48 +27,8 @@ A DP is an algorithmic technique which is usually based on a recurrent formula a
 - [Richi's Solution(O(n) that works)](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/stickler-mod.cpp)
 - [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/stickler-edi.txt)
 
+3. Filch's Dilemma SPOJ(Diff: 4/5)  
 
-
-1. ALTARRAY
-- [Question Link](https://www.codechef.com/problems/ALTARAY)
-- Solutions are on their way!
-
-2. DELISH
-- [Question Link](https://www.codechef.com/problems/DELISH)
-- Solutions are on their way!
-
-3. DBOY
-- [Question Link](https://www.codechef.com/problems/DBOY)
-- Solutions are on their way!
-
-4. XORSUB
-- [Question Link](https://www.codechef.com/problems/XORSUB)
-- Solutions are on their way!
-
-5. GRID
-- [Question Link](https://www.codechef.com/problems/GRID)
-- Solutions are on their way!
-
-6. TADELIVE
-- [Question Link](https://www.codechef.com/problems/TADELIVE)
-- Solutions are on their way!
-
-7. FROGV
-- [Question Link](https://www.codechef.com/problems/FROGV)
-- Solutions are on their way!
-
-8. MATRIX2
-- [Question Link](https://www.codechef.com/problems/MATRIX2)
-- Solutions are on their way!
-
-9. AMSGAME2
-- [Question Link](https://www.codechef.com/problems/AMSGAME2)
-- Solutions are on their way!
-
-
-
-
-
-
-
-
+- [Question Link](https://www.spoj.com/problems/BYTESH1/)
+- [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/bytesh1.cpp)
+- [Richi's Editorial](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Dynamic%20Programming/bytesh1-edi.md)
