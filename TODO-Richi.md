@@ -1,6 +1,10 @@
 ## Things that Richi would be doing in the next 20 days:
 
+
+https://discuss.codechef.com/t/data-structures-and-algorithms/6599/86
+https://codeforces.com/blog/entry/55274
 https://www.interviewbit.com/courses/programming/topics/binary-search/
+
 https://www.interviewbit.com/courses/programming/topics/math/
 https://stackoverflow.com/questions/3974077/throwing-cats-out-of-windows?rq=1https://www.interviewbit.com/courses/programming/topics/linked-lists/
 https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/
