@@ -1,5 +1,12 @@
 ## Things that Richi would be doing in the next 20 days:
 
+Aim Changed: 
+
+Learn seg tree
+
+All contests + Every question on Interview Bit + Every Top 20 interview questions From GFG in topics given by InterviewBit    
+Then  LeetCode if time permits.
+Loads of Love !!
 
 https://discuss.codechef.com/t/data-structures-and-algorithms/6599/86
 https://codeforces.com/blog/entry/55274
