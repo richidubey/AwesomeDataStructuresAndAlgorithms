@@ -2,7 +2,8 @@
 
 Aim Changed: 
 
-Learn seg tree
+Check career cup!
+Longest common subsequence.
 
 All contests + Every question on Interview Bit + Every Top 20 interview questions From GFG in topics given by InterviewBit    
 Then  LeetCode if time permits.
