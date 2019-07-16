@@ -14,6 +14,12 @@
 [Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
 
 
+> Diagonal Traversal gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/diagtrav.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)   
+
+
 
 > Top View : HackerRank   
 [Question Link](https://www.hackerrank.com/challenges/tree-top-view/problem)   
