@@ -8,6 +8,11 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/levelOrder.cpp)   
 [Official Editorial](https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/)   
 
+> Size of Tree gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/treesize.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+
 
 
 > Top View : HackerRank   
