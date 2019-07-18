@@ -1,6 +1,10 @@
 # Contents   
 
 
+> Vertical Order Traversal   
+[Question Link](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/?track=sp-trees&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/bottom.cpp)   
+[Official Editorial(find on)](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/?track=sp-trees&batchId=152)   
 
 
 > Vertical Order Traversal   
