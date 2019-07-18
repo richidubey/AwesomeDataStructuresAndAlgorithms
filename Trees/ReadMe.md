@@ -13,11 +13,19 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/treesize.cpp)   
 [Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
 
+> Convert to Sum Tree gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/?track=sp-trees&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/sumtree.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/?track=sp-trees&batchId=152)   
+
+
 
 > Diagonal Traversal gfg   
 [Question Link](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/diagtrav.cpp)   
 [Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)   
+
+
 
 
 
