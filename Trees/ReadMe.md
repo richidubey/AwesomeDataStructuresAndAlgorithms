@@ -1,12 +1,40 @@
 # Contents   
 
 
+> Vertical Order Traversal   
+[Question Link](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/?track=sp-trees&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/bottom.cpp)   
+[Official Editorial(find on)](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/?track=sp-trees&batchId=152)   
 
 
 > Vertical Order Traversal   
 [Question Link](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/levelOrder.cpp)   
 [Official Editorial](https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/)   
+
+> Size of Tree gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/treesize.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+
+> Convert to Sum Tree gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/?track=sp-trees&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/sumtree.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/?track=sp-trees&batchId=152)   
+
+
+> Check Mirror in n-ary tree gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0/?track=sp-trees&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/checkmirror.cpp)   
+[Official Editorial(find in page)](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0/?track=sp-trees&batchId=152)   
+
+
+> Diagonal Traversal gfg   
+[Question Link](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Trees/diagtrav.cpp)   
+[Official Editorial: Find on page](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)   
+
+
 
 
 
