@@ -19,6 +19,21 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/short-reach.cpp)   
 [Official Editorial](https://www.hackerrank.com/challenges/bfsshortreach/editorial)   
 
+> Minimum Cost Path GfG(Diff : 3/5)   
+[Question Link](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0/)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/min-cost-path.cpp)   
+[Official Editorial](https://www.geeksforgeeks.org/minimum-cost-path-left-right-bottom-moves-allowed/)   
+
+> Knight Walk GfG (Diff: 3.5/5)   
+[Question Link](https://practice.geeksforgeeks.org/problems/knight-walk/0)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/bfs-knight-walk.cpp)   
+[Official Editorial](https://www.geeksforgeeks.org/minimum-steps-to-reach-a-destination/)   
+
+> Word Boggle GfG (Difficulty : 3/5)   
+[Question Link](https://practice.geeksforgeeks.org/problems/word-boggle/0/?track=sp-graph&batchId=152)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/word-boggle.cpp)   
+[Official Editorial (Search in the page for the word 'editorial' )](https://practice.geeksforgeeks.org/problems/word-boggle/0/?track=sp-graph&batchId=152)   
+
 
 > Social Networking Graph   
 [Question Link](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/)   
