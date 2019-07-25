@@ -19,6 +19,12 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/short-reach.cpp)   
 [Official Editorial](https://www.hackerrank.com/challenges/bfsshortreach/editorial)   
 
+
+> Travelling Salesman GfG (Diff: 4.5/5)   
+[Question Link](https://practice.geeksforgeeks.org/problems/travelling-salesman-problem/0/)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/travelling-salesman.cpp)   
+[Official Editorial](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)   
+
 > Minimum Cost Path GfG(Diff : 3/5)   
 [Question Link](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0/)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/min-cost-path.cpp)   
