@@ -25,6 +25,13 @@
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/travelling-salesman.cpp)   
 [Official Editorial](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)   
 
+
+
+> Rat in a Maze GfG (Diff: 4.5/5)   
+[Question Link](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1/)   
+[Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/rat-in-a-maze.cpp)   
+
+
 > Minimum Cost Path GfG(Diff : 3/5)   
 [Question Link](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0/)   
 [Richi's Solution](https://github.com/richidubey/AwesomeDataStructuresAndAlgorithms/blob/master/Graphs/min-cost-path.cpp)   
