@@ -36,4 +36,4 @@ boolean array[] = new boolean[1000000+1];
 ```        
 
 **Why this algorithm?**
-This code labels all the prime numbers in your array as true and other as false, now you can use your list of primes after this you can get prime in **O(n) time (worst case)**
+This code labels all the prime numbers in your array as true and other as false, now you can use your list of primes after this you can get prime in **O(n ln(ln(n))) time (worst case)**
